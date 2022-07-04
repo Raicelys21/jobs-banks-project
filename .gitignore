@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Nodemon env variables
+nodemon.json
+
+# Images
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.png
